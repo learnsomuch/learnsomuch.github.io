@@ -1,0 +1,82 @@
+* {
+	margin: 1;
+	padding: 1;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: #ffffff;
+	font: 12px Courier New, Courier, monospace;
+	*font-size: small;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	margin-top: 1em;
+}
+
+h1 {
+	font-size: 110%;
+	margin-bottom: 1em;
+}
+
+h2 {
+	font-size: 100%;
+}
+
+p {
+	margin: 1em 0;
+}
+
+a {
+	color: #0080ff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #8000ff;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #ea4a5a;
+	text-decoration: none;
+}
+
+ul.posts {
+	list-style-type: none;
+	margin-bottom: 2em;
+}
+
+ul.posts li {
+	line-height: 1.75em;
+}
+
+ul.posts span {
+	color: #222222;
+	font-size: 90%;
+}
+
+ul.posts a {
+	text-align: left;
+}
+
+.structure {
+	font-size: 110%;
+	text-align: justify;
+	width: 728px;
+	margin: 3em auto 2em auto;
+	line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: left;
+}
+
+.redheart {
+	color:#ff0000; font-size:14px;
+}

@@ -1,0 +1,36 @@
+---
+layout: default
+title: Updates - Personal Blog && technical Blog ;
+---
+
+<div class="home">
+
+  <h1>Hello, I'm Sankar Bheemarasetty!</h1>
+  <h2>Thanks for visiting! </h2>
+  <p style="color:#ff5500"><i>Theme or the design of this website is inspired from linux and a question 'How will be a notepad in browser with color?'.<a href="mailto:sankar@learnsomuch.com">Email your feedback</a> for better improvement. Thanks!</i></p>
+  <p>I am still in a process of modifying and migrating my posts from my wordpress blog.</p>
+  <p>To know more about the about me or about my experiments, check out the links above ;-) </p>
+  
+  <br />
+  <h1>List of Articles</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52557518-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</div>

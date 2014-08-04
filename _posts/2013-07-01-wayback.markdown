@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Thanks to Github and Jekyll"
+date:   2014-07-02 22:25:00
+categories: jekyll update
+meta: Credits
+---
+
+Thank you [Github] and [jekyll]. This made my day! 
+
+Good Bye Wordpress!! 
+
+Anyone can re-use {[Github-code]} of this site . However, If you want to copy my content, shoot me an email to <sankar@learnsomuch.com> with the details like, where you are posting and why it is an interesting ;-) Just to know and share here!
+
+[Github]: https://github.com
+[Github-code]: https://github.com/learnsomuch/learnsomuch.github.io
+[jekyll]: http://jekyllrb.com

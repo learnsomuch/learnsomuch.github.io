@@ -1,0 +1,9 @@
+# Site settings
+title: MyBlog
+email: sankar@learnsomuch.com
+description: "Blog with general and technical articles."
+url: "http://learnsomuch.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
