@@ -7,9 +7,15 @@ meta: Zabbix Cookbook pack publishing sankar bheemarasetty technical reviewer
 ---
 
 'Zabbix Cookbook' - Patrik Uytterhoeven March 2015
-one of the Technical reviewer : Sankar bheemarasetty
+
+One of the Technical reviewer : Sankar bheemarasetty
+
 ISBN13 9781784397586
+
 Paperback 260pages
+
+This is my first book as a Technical reviewer.
+
 
 ### ZABBIX Cookbook - Monitoring Solutions
 
@@ -43,10 +49,6 @@ This book will teach you the skills required to successfully set up and configur
 
 You will begin with learning the Zabbix installation and configuration steps in detail, and then move on to exploring its interface and architecture. You will then work with groups, users, and permissions. The book will then take you through monitoring and testing with Zabbix. Followed by this, you will gain insights into using templates, and also create impressive graphs and maps for data visualization and reporting. Towards the end of the book, you will learn how to maintain, upgrade, and troubleshoot your Zabbix infrastructure.
 
-### 6. Shopping
-
-* Here, They charge extra money for bottle. If you return back the empty bottle, you will get back the charged money.
-* Once shopping is done, after payment is done, they greet you with "Tschuss"(Bye) and you often have to respond back.
 
 ### About author - Patrik Uytterhoeven
 
@@ -58,7 +60,9 @@ Because Patrik also has a deep interest in configuration management, he wrote so
 
 Patrik is also a technical reviewer of Learning Ansible and the upcoming book, Ansible Configuration Management, both published by Packt Publishing.
 
-### About me being a technical reviewer - Sankar bheemarasetty { Me :-) }
+### About technical reviewer (myself) - Sankar bheemarasetty { Me :-) }
+
+I am one of the technical reviewer for this book.
 
 Sankar Bheemarasetty is doing his master's at Technische Universität Darmstadt, Germany. He worked as a systems engineer for more than 3 and a half years on various technologies and programming languages. Zabbix is one of the monitoring solutions he has worked on. Bheemarasetty completed his bachelor's degree in information technology at VIT University, Vellore, India. Experimenting with new technologies is his hobby. You can contact him at www.learnsomuch.com and http://learnsomuch.github.io/.
 
