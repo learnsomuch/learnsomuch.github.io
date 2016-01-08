@@ -4,7 +4,7 @@ title: About - Sankar Bheemarasetty
 permalink: /about/
 ---
 
-I am a student at [Technische Universität Darmstadt](https://www.informatik.tu-darmstadt.de/en/department/), studying Distributed software systems. Completed my Bachelors degree in Information Technology at [VIT University](http://vit.ac.in/), India. Later, worked in [Tata Consultancy Services](http://www.tcs.com/), Bangalore. However, [SAP Labs](http://www.sap.com/directory/india.html), Bangalore is my client and office location.
+I am a student at [Technische Universität Darmstadt](https://www.informatik.tu-darmstadt.de/en/department/), studying Distributed software systems. Completed my Bachelors degree in Information Technology at [VIT University](http://vit.ac.in/), India. Later, worked at [Tata Consultancy Services](http://www.tcs.com/), Bangalore. However, [SAP Labs](http://www.sap.com/directory/india.html), Bangalore is my client and office location.
 
 ## Research or Area of Interests :
 * Computer Security
@@ -13,6 +13,7 @@ I am a student at [Technische Universität Darmstadt](https://www.informatik.tu-
 * New Technologies
 * Cloud computing
 * Data analysis
+* Web Applications
 
 ## Teams or topics I worked in SAP Labs : 
 * SAP Business ByDesign Operations - Provisioning
