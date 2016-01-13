@@ -25,7 +25,7 @@ I am currently working as Student Assistant at [Ponttec GmbH](http://www.ponttec
 ## Topics at Ponttec GmbH
 * [EFRIS - ERP](http://ponttec.com/products) modules development in PHP.
 * Servers maintainance, Implementation of monitoring systems, SSLs, Web Servers, scripting in Shell, backups etc.. 
-* Small developments/Maintainance activies for [Ponttor.com](http://www.ponttor.com).
+* Small Magento developments/Maintainance activities for [Ponttor.com](http://www.ponttor.com) and in past for [Mistvapor](https://www.mistvapor.com).
 * Developed websites such as [Ponttec GmbH](http://www.ponttec.com) with [CMS](http://cms.ponttec.com) from scratch.
 
 ## Topics at Mathematik, TU Darmstadt
