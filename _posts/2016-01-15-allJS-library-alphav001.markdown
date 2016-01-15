@@ -2,7 +2,7 @@
 layout: post
 title:  "all.js - A JS library for everything"
 date:   2016-01-15 00:00:00
-categories: programming,  api,  library
+categories: programming
 meta: all.js JS JavaScript library api programming sankar bheemarasetty
 ---
 
