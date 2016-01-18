@@ -12,4 +12,4 @@ Check out the [all.js docs](https://github.com/learnsomuch/all.js/blob/master/RE
 
 License [MIT 2016](https://github.com/learnsomuch/all.js/blob/master/LICENSE).
 
-Visit [all.js official website at http://learnsomuch.github.io/all.js](http://learnsomuch.github.io/all.js)
+Visit all.js official website at [all.js.org](http://all.js.org)
