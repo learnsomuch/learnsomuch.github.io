@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "list of Awesome javascript frameworks and libraries"
-date:   2014-07-02 21:57:00
+date:   2016-11-04 16:23:00
 categories: javascript, Program, frameworks
 meta: List of all popular javascript frameworks
 ---
