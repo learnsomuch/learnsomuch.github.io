@@ -21,7 +21,9 @@ I am a student at [Technische Universität Darmstadt](https://www.informatik.tu-
 * SAP Successfactors Operations - SAP JAM Product operations
 
 ## Topics at Ponttec GmbH :
-* [EFRIS - ERP](http://ponttec.com/products) modules development in PHP.
+* Mobile application design and development for [EFRIS - ERP](http://ponttec.com/products.php?lang=en)
+* API design and development for [EFRIS - ERP](http://ponttec.com/products.php?lang=en)
+* [EFRIS - ERP](http://ponttec.com/products.php?lang=en) modules development in PHP.
 * Servers maintainance, Implementation of monitoring systems, SSLs, Web Servers, scripting in Shell, backups etc..
 * Small Magento developments/Maintainance activities for [Ponttor.com](http://www.ponttor.com) and in past for [Mistvapor](https://www.mistvapor.com).
 * Developed websites such as [Ponttec GmbH](http://www.ponttec.com) with [CMS](http://cms.ponttec.com) from scratch.
