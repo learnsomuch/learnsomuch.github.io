@@ -6,11 +6,13 @@ categories: javascript, Program, desktop, application
 meta: LoveCurrency Mac desktop application
 ---
 
-### [LoveCurrency](https://github.com/learnsomuch/LoveCurrency)
+### [LoveCurrency](www.learnsomuch.com/LoveCurrency)
 
 ![Alt text](https://raw.githubusercontent.com/learnsomuch/LoveCurrency/master/media/logo.png)
 
 Realtime currency convertor desktop application
+
+Official website at [www.learnsomuch.com/LoveCurrency](www.learnsomuch.com/LoveCurrency).
 
 ## Status
 [Version 0.0.1-beta.1](https://github.com/learnsomuch/LoveCurrency/releases)

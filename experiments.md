@@ -8,7 +8,7 @@ _I have done lots of experiments related to computers, Web and Programming!_
 
 However, I would like to share a few :
 
-* [LoveCurrency](https://github.com/learnsomuch/LoveCurrency) - A desktop application for Mac to convert currency and show data in realtime. Get the latest release at [v0.0.1-beta.1](https://github.com/learnsomuch/LoveCurrency/releases).
+* [LoveCurrency](www.learnsomuch.com/LoveCurrency) - A desktop application for Mac to convert currency and show data in realtime. Get the latest release at [v0.0.1-beta.1](https://github.com/learnsomuch/LoveCurrency/releases).
 * [All.js](http://all.js.org) - A JS library which can be used for any JavaScript based application.
 * [CVtwink - Automatic Real-time Resume Generator](http://learnsomuch.com/cvtwink/v2/index.html#/)
 Haven't completed the code yet, Will host code soon in [Github Account](https://github.com/learnsomuch).
