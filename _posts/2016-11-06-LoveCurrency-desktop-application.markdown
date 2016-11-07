@@ -8,7 +8,8 @@ meta: LoveCurrency Mac desktop application
 
 ### [LoveCurrency](https://github.com/learnsomuch/LoveCurrency)
 
-![Alt text](/media/logo.png?raw=true "Desktop LoveCurrency Mac application")
+![Alt text](https://raw.githubusercontent.com/learnsomuch/LoveCurrency/master/media/logo.png)
+
 Realtime currency convertor desktop application
 
 ## Status
@@ -32,7 +33,7 @@ Latest stable build app is stored in [LoveCurrency.app](https://github.com/learn
 
 ## Sample Screenshot for Mac
 
-![Alt text](/media/screenshot.png?raw=true "Desktop LoveCurrency Mac application")
+![Alt text](https://raw.githubusercontent.com/learnsomuch/LoveCurrency/master/media/screenshot.png)
 
 
 ## Contribution
